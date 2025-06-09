@@ -1,11 +1,11 @@
-# 🧠 Daily_practiced_codes
+🧠 𝐃𝐚𝐢𝐥𝐲_𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞_𝐜𝐨𝐝𝐞𝐬:
 
 > A growing collection of my daily programming practice – because consistency builds mastery.  
 > 🚀 Languages, logic, and learning... one day at a time.
 
 ---
 
-## 📚 About This Repository
+📚 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
 
 This repository contains my **daily code practice** files, experiments, and mini-projects. It's not just for showcasing improvement, but also for revision, sharing, and keeping the learning flame alive 🔥.
 
