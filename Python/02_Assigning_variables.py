@@ -41,10 +41,11 @@ print(x)
 print(y)
 print(z)
 
-#O/P: 10
+"""
+O/P: 10
       20
       30
-
+"""
 #Ex:02
 x, y, z = 10,20,30
 
