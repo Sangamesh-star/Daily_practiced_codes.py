@@ -38,36 +38,43 @@ y = 20
 z = 30
 
 print(x)
-print(y)
-print(z)
+#O/P: 10
 
-"""
-O/P: 10
-      20
-      30
-"""
+print(y)
+#O/P: 20
+
+print(z)
+#O/P: 30
+
+
 #Ex:02
 x, y, z = 10,20,30
 
 print(x)
-print(y)
-print(z)
-print(x, y, z)
-
 #O/P: 10
-      20
-      30
-      10,20,30
+
+print(y)
+#O/P: 20
+
+print(z)
+#O/P: 30
+
+print(x, y, z)
+#O/P: 10,20,30
+
+
 
 #Ex:03
 x = y = z = 10 
 print(x)
-print(y)
-print(z)
-
 #O/P: 10
-      10
-      10
+
+print(y)
+#O/P: 10
+
+print(z)
+#O/P: 10
+
 
 
 """
