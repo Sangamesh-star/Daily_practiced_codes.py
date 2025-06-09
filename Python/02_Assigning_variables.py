@@ -29,3 +29,50 @@ print(weight)
 
 print(is_student)
 #O/P: True
+
+#Assigning the values to Multiple variables:
+
+#Ex:01 
+x = 10
+y = 20
+z = 30
+
+print(x)
+print(y)
+print(z)
+
+
+#Ex:02
+x, y, z = 10,20,30
+
+print(x)
+print(y)
+print(z)
+print(x, y, z)
+
+
+#Ex:03
+x = y = z = 10 
+print(x)
+print(y)
+print(z)
+
+
+"""
+Variable reassignment:We can Assign infinite values to the same variable that is called variable reassignment.
+"""
+
+x = 10
+print(x)
+
+x = 100
+print(x)
+
+x = "sangamesh" 
+print(x)
+
+x = 5.8
+print(x)
+
+x = True
+print(x)
