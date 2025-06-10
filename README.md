@@ -1,11 +1,11 @@
-🧠 🇩‌
+🧠 𝗗𝗔𝗜𝗟𝗬_𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗜𝗡𝗚_𝗖𝗢𝗗𝗘𝗦:
 
 > A growing collection of my daily programming practice – because consistency builds mastery.  
 > 🚀 Languages, logic, and learning... one day at a time.
 
 ---
 
-📚 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
+📚 𝗔𝗕𝗢𝗨𝗧 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗬:
 
 This repository contains my **daily code practice** files, experiments, and mini-projects. It's not just for showcasing improvement, but also for revision, sharing, and keeping the learning flame alive 🔥.
 
@@ -13,7 +13,7 @@ Whether it’s solving coding challenges, learning new languages, or revisiting 
 
 ---
 
-## 🛠️ Tech & Tools
+🛠️ 𝗧𝗘𝗖𝗛 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦:
 
 - 🐍 Python  
 - ☕ Java  
@@ -25,7 +25,7 @@ Whether it’s solving coding challenges, learning new languages, or revisiting 
 *More to be added as I grow...*
 
 
-## 🎯 Goals of This Repository
+🎯 𝗚𝗢𝗔𝗟𝗦 𝗢𝗙 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗬:
 
 - 🔁 Build consistency with everyday practice  
 - 🧠 Strengthen problem-solving mindset  
@@ -35,7 +35,7 @@ Whether it’s solving coding challenges, learning new languages, or revisiting 
 
 ---
 
-## 🤝 Contributing
+🤝 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗡𝗚:
 
 Want to collaborate, share ideas, or help improve this collection?
 
@@ -47,16 +47,16 @@ All clean and beginner-friendly contributions are welcome!
 
 ---
 
-## 📢 Feedback or Suggestions?
+📢 𝗙𝗘𝗘𝗗𝗕𝗔𝗖𝗞 𝗔𝗡𝗗 𝗦𝗨𝗚𝗚𝗘𝗦𝗧𝗜𝗢𝗡𝗦:
 
 Feel free to [open an issue](https://github.com/your-username/Daily_practiced_codes/issues) or connect with me through GitHub Discussions.
 
 ---
 
-## 🧠 Quote of the Day
+🧠 𝗤𝗨𝗢𝗧𝗘 𝗢𝗙 𝗧𝗛𝗘 𝗗𝗔𝗬:
 
 > "Small consistent efforts lead to big results."
 
 ---
 
-## 📌 Stay Curious. Stay Consistent. Code Every Day!
+📌 Stay Curious. Stay Consistent. Code Every Day!
