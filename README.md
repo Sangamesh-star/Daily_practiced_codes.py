@@ -1,4 +1,4 @@
-🧠 Daily_practicing_codes
+🧠 🇩‌
 
 > A growing collection of my daily programming practice – because consistency builds mastery.  
 > 🚀 Languages, logic, and learning... one day at a time.
