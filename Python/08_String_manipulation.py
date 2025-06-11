@@ -287,6 +287,90 @@ print(username[ : :4])
 
 #(★).Comments in python:
 
+#(a). For single line comment:-
+
+#Ex:01
+
+#This is an single line comment.
+
+#(b). For multilines comment:-
+
+#Ex:01
+
+"""
+Hi, there... this is an multi-line comment. So we can write these type of comments in many lines as we want
+
+"""
+
+#Ex:02
+
+'''
+Hi, there... this is an multi-line comment. So we can write these type of comments in many lines as we want
+'''
+
+
+#(★). Escape Sequence:starts with the " \ " (backslash).
+
+#(1). \n: new line
+
+#Ex:01
+
+text = "Ram\nLaxman"
+print(text)
+
+'''
+#O/P: Ram
+      Laxman
+      
+'''      
+      
+ 
+#Ex:02
+
+greeting = "Good morning🥰🌄 \n"
+print(greeting*5)
+
+'''
+
+#O/p:
+Good morning🥰🌄
+Good morning🥰🌄
+Good morning🥰🌄
+Good morning🥰🌄
+Good morning🥰🌄
+
+'''
+
+#(2). \t: tab space
+
+#Ex:01
+
+name = "Sangamesh\tMK"
+print(name)
+#O/P: Sangamesh       MK
+
+#Ex:02
+
+text = "Hello!\t"
+print(text*5)
+#O/P: Hello!  Hello!  Hello!  Hello!  Hello!
+
+
+
+#(3). \\: Back slash
+
+#Ex:01
+
+text = "Hello\\World"
+print(text)
+#O/P: Hello\World
+
+message = "Hiii\\There"
+print(message)
+#O/P: Hiii\There
+
+
+
 
 
 
