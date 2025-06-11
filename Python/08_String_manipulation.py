@@ -2,6 +2,8 @@
         
 #(1). Common string operations:
 
+#(a).Concatenation:
+
 #Ex:01 Username Generation:-
 
 first_name = "Sangamesh"
@@ -54,6 +56,49 @@ date = day + "/" + month + "/" + year
 
 print(date)
 #O/P: 08/08/2006
+
+
+#(b).Repeatation:
+
+#Ex:01 Multiple times 
+
+name = "Sangamesh \n"
+
+print(name*10)
+
+'''
+#O/P: 
+sangamesh
+Sangamesh
+Sangamesh
+Sangamesh
+Sangamesh
+Sangamesh
+Sangamesh
+Sangamesh
+Sangamesh
+Sangamesh
+'''
+
+
+#Ex:02 Creating ASCII or Text-Bsed UI Elements:-
+
+print("=" * 50)
+print("WELCOME TO MY APP")
+print("=" * 50)
+#O/P: ================================================== 
+                     WELCOME TO MY APP    
+      ==================================================
+
+
+#Ex:03 Password Masking (Visual only)
+
+password = "mysecrete3421"
+mask = "•"*len(password)
+
+print("password:", mask)
+#O/P: password: •••••••••••••
+
 
 
 
