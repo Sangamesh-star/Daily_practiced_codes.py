@@ -87,13 +87,13 @@ print("=" * 50)
 print("WELCOME TO MY APP")
 print("=" * 50)
 #O/P:
-
+'''
 ================================================== 
 
 WELCOME TO MY APP
 
 ==================================================
-
+'''
 
 #Ex:03 Password Masking (Visual only)
 
