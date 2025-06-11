@@ -104,6 +104,113 @@ print("password:", mask)
 #O/P: password: •••••••••••••
 
 
+# (2). String Methods:
+    
+#(a). upper()
+
+#Ex:01
+
+message = "Hello, World!" 
+
+print(message. upper())
+#O/P: HELLO, WORLD!
+
+#Ex:02
+
+stored_username = "SANGAMESH"
+entered_username = "sangamesh"
+
+if stored_username == entered_username.upper():
+    print("Login successful")
+#O/P: Login successful
+
+
+#Ex:03
+
+invoice_prefix = "inv"
+invoice_number = "00789"
+
+print((invoice_prefix + invoice_number).upper())
+#O/P: INV00789
+
+
+#Ex:04
+
+message = "stop spamming!"
+print("ALERT:", message.upper())
+#O/P: ALERT: STOP SPAMMING!
+
+ 
+#(b). lower()
+
+#Ex:01
+
+message = "Hello, World"
+
+print(message. lower())
+#O/P: hello, world
+
+
+#Ex:02
+
+user_input = "BENGALURU"
+standard_city = user_input.lower()
+
+print(standard_city)
+#O/P: bengaluru
+
+
+#Ex:03
+
+email_from_user = "SANGAMESHMK94@GMAIL.COM"
+registered_email = "sangameshmk94@gmail.com"
+
+if email_from_user.lower() == registered_email:
+    print("Email verified!")
+#O/P: Email verified!
+
+
+#Ex:04
+
+search_query = "Python PROGRAMMING"
+database_entry = "python programming"
+
+if search_query.lower() == database_entry:
+    print("Found in database!")
+#O/P: Found in database!
+
+
+#(c). Strip:
+   
+#Ex:01
+
+message = " Hello, World! "
+print(message. strip())
+#O/P:Hello, World
+
+
+#Ex:02
+
+name = "    sangamesh    "
+print(name. strip())
+#O/P: sangamesh
+
+
+#(d). replace("old", "new")
+
+#Ex:01
+message = "Hello, World"
+print(message. replace("World","Python"))
+#O/P: Hello, Python
+
+
+#Ex:02
+city_name = "ಬೆಂದಕಾಳೂರು"
+print(city_name. replace("ಬೆಂದಕಾಳೂರು", "ಬೆಂಗಳೂರು"))
+#O/P: ಬೆಂಗಳೂರು 
+
+
+
 
 
 
