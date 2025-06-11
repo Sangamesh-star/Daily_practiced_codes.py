@@ -210,6 +210,88 @@ print(city_name. replace("ಬೆಂದಕಾಳೂರು", "ಬೆಂಗಳೂ�
 #O/P: ಬೆಂಗಳೂರು 
 
 
+#(3). Accessing string characters:
+
+#Ex:01
+
+State = "Karnataka"
+
+print(State[0])
+print(State[2])
+print(State[3])
+print(State[5])
+print(State[7])
+print(State[1])
+
+'''
+
+#O/P: 
+K
+r
+n
+t
+k
+a
+
+'''
+#NOTE: WE CAN ALSO USE NEGATIVE INDEXING FROM THE END OF THE WORD.
+
+State = "Karnataka"
+
+print(State[-1])
+print(State[-4])
+print(State[-3])
+print(State[-7])
+print(State[-2])
+print(State[-9])
+
+'''
+
+#O/P:
+    
+a
+t
+a
+r
+k
+K
+
+'''
+
+
+#(4).Slicing strings:
+ 
+'''
+syntax:      
+print(start:end:step)
+         or
+print(includes:excludes:skip)
+
+'''
+
+#Ex:01
+
+username = "matured_mind3421"
+
+print(username[ :7])
+#O/P: matured 
+print(username[8:16])
+#O/P: mind3421
+print(username[ : ])
+#O/P: matured_mind3421
+print(username[ : :2])
+#O/P: mtrdmn32
+print(username[ : :4])
+#O/P: mrm3
+
+
+#(★).Comments in python:
+
+
+
+
+
+
 
 
 
