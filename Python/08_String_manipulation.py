@@ -365,6 +365,9 @@ text = "Hello\\World"
 print(text)
 #O/P: Hello\World
 
+
+#Ex:02
+
 message = "Hiii\\There"
 print(message)
 #O/P: Hiii\There
