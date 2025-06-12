@@ -367,7 +367,7 @@ print(a^b)
 #O/P: 22
 
 
-#(d). Bitwise NOT(~) 
+#(d). Bitwise NOT(~): (-(a+1)) 
 
 #Ex:01
 
