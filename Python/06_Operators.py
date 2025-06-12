@@ -243,7 +243,7 @@ print("30" not in x)
 #O/P: True 
 
 print("100" not in x)
-#O/P: Flase
+#O/P: False
 
 print("1000" in x)
 #O/P: False
@@ -367,19 +367,19 @@ print(a^b)
 #O/P: 22
 
 
-#(d). Bitwise NOT(-) 
+#(d). Bitwise NOT(~) 
 
 #Ex:01
 
 a = 5
-print(-a)
+print(~a)
 #O/P: -5
 
 
 #Ex:02
 
 x = 10
-print(-x)
+print(~x)
 #O/P: -10
 
 
