@@ -1,4 +1,4 @@
-# OEPERATORS:
+# OPERATORS:
 
 
 #(1). Arithmatic Operators:-
@@ -234,18 +234,18 @@ print("z" not in x)
 
 #Ex:02
 
-x = "10, 20, 40, 50, 100"
+x = [10, 20, 40, 50, 100]
 
-print("10" in x)
+print(10 in x)
 #O/P: True
 
-print("30" not in x)
+print(30 not in x)
 #O/P: True 
 
-print("100" not in x)
+print(100 not in x)
 #O/P: False
 
-print("1000" in x)
+print(1000 in x)
 #O/P: False
 
 
@@ -373,14 +373,14 @@ print(a^b)
 
 a = 5
 print(~a)
-#O/P: -5
+#O/P: -6
 
 
 #Ex:02
 
 x = 10
 print(~x)
-#O/P: -10
+#O/P: -11
 
 
 #(e). Bitwise left shift(<<)
