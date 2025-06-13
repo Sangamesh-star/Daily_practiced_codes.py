@@ -67,8 +67,7 @@ print(fruits)
 
 
 #Ex:02
-my_lists =["AIDS", "AIML", "CSE",
- "BCI"]
+my_lists =["AIDS", "AIML", "CSE", "BCI"]
 my_lists[3] = "CIVIL"
 print(my_lists)
 #O/P: ['AIDS', 'AIML', 'CSE', 'CIVIL']
