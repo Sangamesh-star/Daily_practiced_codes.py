@@ -180,7 +180,6 @@ print(numbers[1: :2])
 
 
 
-
 #(4).List functions and methods:-
 
 #(★). Common functions:
@@ -225,3 +224,71 @@ print(sum(only_num))
 just_num = [45,99,100,6789]
 print(sum(just_num))
 #O/P: 7033
+
+
+
+#(★). Common methods:
+    
+#(a). index(element):-
+
+#Ex:01
+
+fruits = ["apple", "banana", "grapes", "orange"]
+
+print(fruits.index("banana"))
+#O/P: 1
+print(fruits.index("orange"))
+#O/P: 3
+print(fruits.index("grapes"))
+#O/P: 2
+
+
+
+#(b). count(element):-
+
+#Ex:01
+
+numbers = [1,2,4,10,1,1,3,88,99, 100,10,100,10,10,10]
+
+print(numbers.count(1))
+#O/P: 3
+print(numbers.count(10))
+#O/P: 5
+print(numbers.count(100))
+#O/P:2
+
+#(c). reverse():-
+
+#Ex:01
+
+fruits = ["apple", "banana", "cherry", "grapes"]
+fruits.reverse()
+print(fruits)
+#O/P: ['grapes', 'cherry', 'banana', 'apple']
+
+
+#Ex:02
+
+my_lists = [99, "pen", "books", 143, 999]
+my_lists.reverse()
+print(my_lists)
+#O/P: [999, 143, 'books', 'pen', 99]
+
+
+#(d). sort()
+
+#Ex:01
+
+num = [12,99,2,102,-2,444]
+num.sort()
+print(num)
+#O/P: [-2, 2, 12, 99, 102, 444]
+
+#Ex:02
+
+frnds_weight = [2.1, 3.4, 6.1, 5.9, 4.4]
+frnds_weight.sort()
+print(frnds_weight)
+#O/P: [2.1, 3.4, 4.4, 5.9, 6.1]
+
+
