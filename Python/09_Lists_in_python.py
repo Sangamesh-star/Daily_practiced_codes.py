@@ -199,7 +199,7 @@ print(len(my_list))
 #O/P: 7
 
 
-#(b). sorted(list):-
+#(b). sorted(list):-returns a new sorted list (original stays same).
 
 #Ex:01
 
@@ -207,6 +207,7 @@ designation = ["chief", "prime", "governor"]
 
 print(sorted(designation))
 #O/P: ['chief', 'governor', 'prime']
+
 print(designation)
 #O/P: ['chief', 'prime', 'governor']
 
@@ -275,7 +276,7 @@ print(my_lists)
 #O/P: [999, 143, 'books', 'pen', 99]
 
 
-#(d). sort()
+#(d). sort():sorts the original list in-place.
 
 #Ex:01
 
