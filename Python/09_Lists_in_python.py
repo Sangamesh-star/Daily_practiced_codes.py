@@ -130,7 +130,7 @@ print(fruits)
 
 fruits.remove("apple")
 print(fruits)
-#O/P: ['banana', 'cherry', 'grapes']
+#O/P:['banana', 'cherry', 'grapes']
 
 
 
@@ -142,7 +142,7 @@ fruits = ["apple", "banana", "cherry", "grapes"]
 
 fruits.pop(1)
 print(fruits)
-#O/P: ['apple', 'cherry', 'grapes']
+#O/P:['apple', 'cherry', 'grapes']
 
 #Ex:02
 
