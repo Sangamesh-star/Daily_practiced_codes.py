@@ -272,7 +272,8 @@ print(fruits)
 my_lists = [99, "pen", "books", 143, 999]
 my_lists.reverse()
 print(my_lists)
-#O/P:  [999, 143, 'books', 'pen', 99]
+
+#O/P:[999, 143, 'books', 'pen', 99]
 
 
 #(d). sort():sorts the original list in-place.
