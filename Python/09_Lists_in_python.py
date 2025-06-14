@@ -206,11 +206,10 @@ print(len(my_list))
 designation = ["chief", "prime", "governor"]
 
 print(sorted(designation))
+#O/P:['chief', 'governor', 'prime']
 
-#O/P: ['chief', 'governor', 'prime']
 print(designation)
-
-#O/P: ['chief', 'prime', 'governor']
+#O/P:['chief', 'prime', 'governor']
 
 
 #(c). sum(list):-
