@@ -292,3 +292,39 @@ print(frnds_weight)
 #O/P: [2.1, 3.4, 4.4, 5.9, 6.1]
 
 
+#(5).Nested lists:
+    
+matrix = [[1,2,3], [4,5,6], [7,8,9]]
+
+'''
+↪️THE ABOVE MATRIX IS SHOWN LIKE THIS AND GIVES ROWS AND COLUMNS:
+              
+               0 1 2
+               | | |
+matrix =   0—[[1,2,3],
+           1—[4,5,6],
+           2—[7,8,9]]
+
+
+'''
+
+print(matrix) 
+#O/P: [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+print(matrix[0])
+#O/P: [1,2,3] ¡e., The first index always represents the "ROW" and 2nd is "COLUMN".
+
+print(matrix[0][0])
+#O/P: 1
+
+print(matrix[2][2])
+#O/P: 9
+
+print(matrix[1])
+#O/P: [4,5,6]
+
+  
+
+
+   
+
