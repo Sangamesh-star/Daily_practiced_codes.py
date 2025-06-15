@@ -109,7 +109,7 @@ print(karnataka_foods)
 mobile_brands = {
     "India"       : "Lava",
     "China"       : "Oppo",
-    "USA"         : "America",
+    "USA"         : "Apple",
     "South Korea" : "MI"
 }
 
