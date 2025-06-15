@@ -116,7 +116,7 @@ mobile_brands = {
 mobile_brands["South Korea"] = "Samsung"
 
 print(mobile_brands)
-#O/P: {'India': 'Lava', 'China': 'Oppo', 'USA': 'America', 'South Korea': 'Samsung'}
+#O/P: {'India': 'Lava', 'China': 'Oppo', 'USA': 'Apple', 'South Korea': 'Samsung'}
 
 
 
