@@ -9,4 +9,4 @@ int main()
 
 }
 
-#O/P: Hello, World !
+// O/P: Hello, World !
