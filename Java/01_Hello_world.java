@@ -1,6 +1,6 @@
 //01.
 
-public class Test1 {
+public class Test {
     
     public static void main(String args[]) {
         
@@ -13,7 +13,7 @@ public class Test1 {
 
 //02.
 
-public class Test2 {
+public class Test {
     
     public static void main(String args[]) {
     
@@ -27,7 +27,7 @@ public class Test2 {
    
 //03.
 
-public class Test3 {
+public class Test {
     
     public static void main(String args[]) {
     
@@ -36,3 +36,6 @@ public class Test3 {
 }
 
 //O/P: HII I'M SANGAMESH😊
+
+
+//NOTE: DONT RUN ALL THREE PROGRAMS IN A SAME FILE OR AT A TIME.IT WILL THROW AN ERROR BCZ.OF HAVING SAME CLASSES "TEST".
