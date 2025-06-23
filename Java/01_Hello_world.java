@@ -38,4 +38,15 @@ public class Test {
 //O/P: HII I'M SANGAMESH😊
 
 
+
+//04.
+
+public class Test {
+    public static void main(String args[]) {
+        System.out.println("Hi Sangamesh!");
+    }
+}
+
+//O/P: Hi Sangamesh!
+
 //NOTE: DONT RUN ALL THREE PROGRAMS IN A SAME FILE OR AT A TIME.IT WILL THROW AN ERROR BCZ.OF HAVING SAME CLASSES "TEST".
