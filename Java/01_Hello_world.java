@@ -1,6 +1,6 @@
 //01.
 
-public class Test {
+public class Test1 {
     
     public static void main(String args[]) {
         
@@ -13,7 +13,7 @@ public class Test {
 
 //02.
 
-public class Test {
+public class Test2 {
     
     public static void main(String args[]) {
     
@@ -26,7 +26,7 @@ public class Test {
     
 //03.
 
-public class Test {
+public class Test3 {
     
     public static void main(String args[]) {
     
