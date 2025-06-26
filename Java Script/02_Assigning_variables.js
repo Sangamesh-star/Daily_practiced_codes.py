@@ -1,5 +1,16 @@
 //In JavaScript we can assign values to the variables in three ways:-
 
+
+//Common Type:
+
+//01.
+
+newMessage = "YOUR DAILY DATA IS EXHAUSTED😔!!!"
+
+console.log(newMessage);
+//O/P: YOUR DAILY DATA IS EXHAUSTED😔!!!
+
+
 //Type One:
 //01.
 const sky_colour = "BLUE😊";
