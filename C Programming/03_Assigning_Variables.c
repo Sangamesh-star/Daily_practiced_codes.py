@@ -69,7 +69,7 @@ int main()
 
 /*
 O/P: Rakesh sharma
-         Rakesh sharma
+     Rakesh sharma
 */    
 
      
