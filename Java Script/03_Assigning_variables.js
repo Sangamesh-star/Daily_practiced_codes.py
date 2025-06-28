@@ -74,7 +74,7 @@ console.log(name);
 
 
 
-/* For 🅻︎🅴︎🆃︎ , We can do ONLY UPDATION✅ and CAN'T do REDECLARATION✅.
+/* For 🅻︎🅴︎🆃︎ , We can do ONLY UPDATION✅ and CAN'T do REDECLARATION❎.
 */
 
 let age = 18;
@@ -87,13 +87,40 @@ console.log(age);
 let age = 20;
 console.log(age);
 
-//O/P: ERROR : Age already Delcared. So, We can't redeclare it❎.
+//O/P: ERROR : Identifier 'age' has already been declared❎.
+
 
 age = 20;
 console.log(age);
 
 //O/P: 20
 //Updation✅.
+
+
+
+
+/* For 🅲︎🅾︎🅽︎🆂︎🆃︎ , We CANNOT do BOTH UPDATION❎ and REDECLARATION❎.
+*/
+
+const country = "India";
+console.log(country);
+
+//O/P: India
+//First Declaration✅.
+
+const country = "America";
+cosnole.log(country);
+
+//O/P: ERROR: Identifier 'country' has already been declared❎.
+
+country = "Russia"; 
+console.log(country);
+
+//O/P: ERROR: India Assignment to constant variable❎.
+
+
+
+
 
 
 
