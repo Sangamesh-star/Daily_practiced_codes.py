@@ -72,3 +72,28 @@ console.log(name);
 //Updation✅.
 
 
+
+
+/* For 🅻︎🅴︎🆃︎ , We can do ONLY UPDATION✅ and CAN'T do REDECLARATION✅.
+*/
+
+let age = 18;
+console.log(age);
+
+//O/P: 18
+//First Declaration ✅.
+
+
+let age = 20;
+console.log(age);
+
+//O/P: ERROR : Age already Delcared. So, We can't redeclare it❎.
+
+age = 20;
+console.log(age);
+
+//O/P: 20
+//Updation✅.
+
+
+
