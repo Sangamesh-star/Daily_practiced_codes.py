@@ -45,3 +45,30 @@ console.log(dress_code);
 let text = "Take care❤️";
 console.log(text);
 //O/P: Take care❤️
+
+
+
+/* For 🆅︎🅰︎🆁︎ , We can do Both REDECLARATION✅and UPDATION✅
+*/
+
+var name = "sangamesh";
+console.log(name);
+
+//O/P: sangamesh
+//1st declaration.
+
+
+var name = "Dreamer";
+console.log(name);
+
+//O/P: Dreamer
+//Re-declaration✅.
+
+
+name = "A tech Geek";
+console.log(name);
+
+//O/P: A tech Geek
+//Updation✅.
+
+
