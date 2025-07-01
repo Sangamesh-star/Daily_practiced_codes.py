@@ -47,6 +47,25 @@ All clean and beginner-friendly contributions are welcome!
 
 ---
 
+## 🌈 License  
+**MIT © 2025 [Sangamesh M Kuri]**  
+
+> 🟢 **You can:**  
+> - Use freely  
+> - Modify  
+> - Distribute  
+> - Private/commercial use  
+>  
+> 🟡 **You must:**  
+> - Include original license  
+>  
+> 🔴 **No warranty**  
+> - Author not liable  
+
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
+
 ## 📜 License  
 
 Copyright (c) [2025] [Sangamesh M Kuri]  
