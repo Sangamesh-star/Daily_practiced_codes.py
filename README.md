@@ -24,6 +24,8 @@ Whether it’s solving coding challenges, learning new languages, or revisiting 
 
 *More to be added as I grow...*
 
+---
+
 
 🎯 𝗚𝗢𝗔𝗟𝗦 𝗢𝗙 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗬:
 
@@ -62,12 +64,12 @@ All clean and beginner-friendly contributions are welcome!
 > 🔴 **No warranty**  
 > - Author not liable  
 
-The above copyright notice and this permission notice shall be included in all  
-copies or substantial portions of the Software.  
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
 
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+---
 
 
 
