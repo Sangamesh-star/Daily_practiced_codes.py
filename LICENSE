@@ -4,7 +4,10 @@ Software Intellectual Property Notice
 
 Copyright (c) 2025 Sangamesh M Kuri <sangameshmkuri94@gamil.com.>GitHub: @sangamesh-star
 
-License Grant
+----
+
+License Grant:
+
 
 Subject to the terms and conditions of this License, the Licensor hereby grants
 You a worldwide, royalty-free, non-exclusive, perpetual, sublicensable license
@@ -18,13 +21,16 @@ to:
 
 3. Grant sublicenses through multiple tiers of distribution
 
+----
 
-
-Definitions
+Definitions:
 
 "Software" shall mean the original work and all Direct Derivative Works.
 "Direct Derivative Works" shall mean modifications that constitute
 copyrightable works containing substantial portions of the original Software.
+
+-----
+
 
 Conditions and Limitations
 
@@ -54,7 +60,7 @@ This license includes a limited patent grant covering implementations
 
 Patent rights terminate if You bring any patent claim against the Licensor
 
-
+-----
 
 
 Disclaimer of Warranty & Liability
@@ -69,6 +75,9 @@ OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
 WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-----
+
 
 Compliance Verification
 
