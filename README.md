@@ -67,7 +67,7 @@ All clean and beginner-friendly contributions are welcome!
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
 
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
 ---
 
