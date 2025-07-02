@@ -16,7 +16,8 @@ Whether it’s solving coding challenges, learning new languages, or revisiting 
 🛠️ 𝗧𝗘𝗖𝗛 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦:
 
 - 🐍 Python  
-- ☕ Java  
+- ☕ Java
+- 🍵JavaScript  
 - 💻 C / C++  
 - 🌐 HTML / CSS / JS (for web basics)  
 - ⚙️ Algorithms & Data Structures  
